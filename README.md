@@ -4,7 +4,7 @@
 - Right now, I’m diving deep into core Computer Science concepts to strengthen my fundamentals.
 - Beyond languages, I'm expanding my knowledge in algorithms, databases and cloud systems.
 - 📫 **Connect with me:** I’m on [LinkedIn](https://www.linkedin.com/in/manish-biswal-xd) and Twitter, so feel free to reach out if you’d like to connect or have any questions!
->Github Stats:
+> Stats:
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanishx&theme=black-ice&hide_border=false&stroke=0000&background=000000" alt="Manish's Streak" height="180px"/>
 </p>
