@@ -6,9 +6,7 @@
 - 📫 **Connect with me:** I’m on [LinkedIn](https://www.linkedin.com/in/manish-biswal-xd) and Twitter, so feel free to reach out if you’d like to connect or have any questions!
 >Github Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamanishx&show_icons=true&theme=radical&hide_border=true&background=000000" alt="Manish's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamanishx&layout=compact&theme=radical&hide_border=true&background=000000" alt="Manish's Top Languages" height="180px"/>
 </p>
-
-
 
 
