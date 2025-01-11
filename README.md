@@ -6,5 +6,5 @@
 - 📫 **Connect with me:** I’m on [LinkedIn](https://www.linkedin.com/in/manish-biswal-xd) and Twitter, so feel free to reach out if you’d like to connect or have any questions!
 >Github Stats:
 <p align="center">
-  <img src="https://github.com/iamanishx/iamanishx/blob/output/github-contribution-grid-snake.svg" alt="Manish's Contribution Snake" />
+  <img src="https://streak-stats.demolab.com/?user=iamanishx&theme=black-ice&hide_border=true&stroke=0000&background=000000" alt="Manish's Streak" height="180px"/>
 </p>
