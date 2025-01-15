@@ -6,6 +6,6 @@
 - 📫 **Connect with me:** I’m on [LinkedIn](https://www.linkedin.com/in/manish-biswal-xd) and [Twitter](https://x.com/ManishBisw74956), so feel free to reach out if you’d like to connect or have any questions!
 >Stats:
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=iamanishx&theme=graywhite&hide_border=false" alt="Manish's Streak" height="180px"/>
+  <img src="https://streak-stats.vercel.app/?user=iamanishx&theme=graywhite&hide_border=true" alt="Manish's Streak" height="180px"/>
 </p>
 
